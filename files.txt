@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Insta4Fools.exe|Insta4Fools.exe
+https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Insta4Fools.Resources.dll|Insta4Fools.Resources.dll
+https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Insta4Fools.TranslationResources.dll|Insta4Fools.TranslationResources.dll
+https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe|Latest.exe
+https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Newtonsoft.Json.dll|Newtonsoft.Json.dll
