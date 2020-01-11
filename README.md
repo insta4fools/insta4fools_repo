@@ -1,7 +1,7 @@
 # Insta4Fools
 
-[EN: **Download (direct link)**](https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe)
-| [RU: **Скачать (прямая ссылка)**](https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe)
+[EN: **Download (direct link, online installer)**](https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe)
+| [RU: **Скачать (прямая ссылка, онлайн установщик)**](https://raw.githubusercontent.com/insta4fools/insta4fools_repo/master/Latest.exe)
 
 ![image](https://user-images.githubusercontent.com/25367511/72204806-a3673980-3484-11ea-8f70-e5918ec68364.png)
 
