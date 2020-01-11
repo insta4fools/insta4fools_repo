@@ -14,7 +14,7 @@ Insta4Fools это мощный бот для Instagram который помо�
 Контакты разработчиков будут ниже.
 
 # English
-Insta4Fools is a powerful Instagram bot brings media to trends. 
+Insta4Fools is a powerful bot for Instagram that helps to bring posts to trends using hashtags.
 
 ## Any problems?
 See [available issues](https://github.com/insta4fools/insta4fools_repo/issues) or [create a new one](https://github.com/insta4fools/insta4fools_repo/issues/new).
